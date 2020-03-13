@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+    <script>
+      function generateNumber() {
+        var number = document.getElementById("generate");
+        number.innerHTML = Math.floor((Math.random()* 100) + 1);
+      }
+    </script>
+    <style>
+      html {
+       background-color: chartreuse;
+        border-color: 1px solid;
+      }
+      button {
+          display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+        font-family: monospace;
+      }
+      button:hover {background-color: #3e8e41}
+      
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+      p {
+        font-size: 25px;
+        font-family: monospace;
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+      
+    <p> Click me to generate a random number</p>
+    <button onclick="generateNumber()">click me</button>
+    <p id="generate"></p>
+      <center>
+  </body>
+</html>
