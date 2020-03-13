@@ -1,2 +1,2 @@
 # skygames
-game powered by SkyNet
+Games powered by SkyNet
