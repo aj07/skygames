@@ -4,7 +4,7 @@ Skygames is the one stop solution of many games.
 
 Play Link: https://siasky.net/_A75NGp4qw51U2auLap92VOzMoSOIgCJ4VM3jft7sfJVuw/index.html
 
-Demo Link: https://youtu.be/COTYroKwWcY
+Demo Link: https://youtu.be/KMCFopv2E04
 
 If you want to play individual game , you can also directly browse via link below.
 
